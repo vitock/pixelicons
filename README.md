@@ -6,4 +6,5 @@
 
 ![](images/39650bd233fc8e6da69e7fd3e11642b3.png)
 
-[预览](preview.html)
+[预览 html](preview.html)
+[预览 markdown](preview.md)

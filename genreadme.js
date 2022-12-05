@@ -10,6 +10,7 @@ arr.forEach(src => {
 
 
 fs.writeFileSync("preview.html",html )
+fs.writeFileSync("preview.md",html )
 
 
 
